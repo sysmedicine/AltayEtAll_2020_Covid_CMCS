@@ -1,0 +1,9 @@
+Data/
+.DS_Store
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+.Rhistory
+.Rapp.history
+.RData
+API/inetmodelsAPI.ipynb
+Analysis/
